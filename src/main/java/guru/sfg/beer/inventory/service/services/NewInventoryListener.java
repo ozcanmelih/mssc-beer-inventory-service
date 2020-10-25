@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 @Slf4j
 @RequiredArgsConstructor
 @Component
-public class InventoryListener {
+public class NewInventoryListener {
 
     private final BeerInventoryRepository beerInventoryRepository;
 
